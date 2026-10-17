@@ -1,0 +1,4 @@
+jupyterhealth-client
+pandas
+matplotlib
+tabulate

@@ -1,0 +1,18 @@
+# Credentials
+.env
+
+# Data: no patient-level data is ever committed
+data/*
+!data/README.md
+*.parquet
+*.feather
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
