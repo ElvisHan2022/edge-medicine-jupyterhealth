@@ -46,7 +46,7 @@ cd edge-medicine-jupyterhealth
 pip install -r requirements.txt
 ```
 
-Because the repository is private, git will ask for your GitHub username and a personal access token in place of a password. Create a fine-grained token scoped to this repository only (GitHub, Settings, Developer settings, Personal access tokens).
+Cloning needs no credentials. To push, git will ask for your GitHub username and a personal access token in place of a password (nothing appears on screen as you paste it). Create a fine-grained token scoped to this repository only (GitHub, Settings, Developer settings, Personal access tokens).
 
 ### 3. Run the inventory notebook
 
