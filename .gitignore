@@ -16,3 +16,5 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+notebooks/data/
+notebooks/data/
