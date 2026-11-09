@@ -72,18 +72,36 @@ Copy `.env.example` to `.env`, paste a personal Exchange token (see <https://doc
 
 ## Team
 
-| Member | Role |
-| --- | --- |
-| Elvis Han | Data and analytic layers: Exchange integration, synthetic cohorts, engagement models; repository maintainer |
-| Starlette Khim | Collaborator |
-| Sachit Sinha | Collaborator |
+We are three students in UCSF's Master of Science in Health Data Science program, trained to build and test predictive models on clinical data, the core of Tether, and we pair that training with clinical research experience.
 
-### Advisors
-
-| Advisor | Affiliation |
+| Member | Focus on Tether |
 | --- | --- |
-| Peter Washington | UCSF |
-| Karla Lindquist | UCSF |
+| Elvis Han | JupyterHealth build, simulated patient cohort, engagement models; repository maintainer |
+| Starlette Khim | Mental health screening, escalation design, and disengagement |
+| Sachit Sinha | Translating biological and clinical questions into quantitative analysis and scientific insight |
+
+**Starlette Khim** is a Clinical Research Coordinator in UCSF's Department of Psychiatry and Behavioral Sciences, where she manages the participant enrollment, data collection, and retention on which remote monitoring depends. She holds a B.A. in Psychology with a minor in Data Science from UC Berkeley, and her behavioral health background informs Tether's mental health screening, escalation design, and attention to disengagement.
+
+**Sachit Sinha** brings research experience in bioinformatics and entomology from the University of Illinois Urbana-Champaign. His foundation in the biological sciences, combined with his training in data science, allows him to translate biological and clinical questions into quantitative analysis and to communicate computational findings as meaningful scientific insight.
+
+**Elvis Han** holds a B.A. in Public Health Studies and Economics, with a minor in Applied Mathematics and Statistics, from Johns Hopkins University. He conducts research on consumer wearable and health record data in the All of Us Research Program, where his analysis of sleep changes after patients begin GLP-1 medications was accepted for oral presentation at the Western Medical Research Conference. He also builds machine learning tools that evaluate digital behavioral health programs in the TECH Lab at UCSF. He leads Tether's JupyterHealth build, the simulated patient cohort, and the engagement models.
+
+We have already begun. We have obtained access to the JupyterHealth demo platform, built the simulated postpartum cohort on which our prototype runs, reviewed the published postpartum monitoring programs, and organized our work through a shared code repository and scheduled build sessions.
+
+## Advisors
+
+Two UCSF faculty members have agreed to advise our team.
+
+| Advisor | Position | Advises on |
+| --- | --- | --- |
+| Karla Lindquist, PhD | Department of Obstetrics, Gynecology and Reproductive Sciences, UCSF | Modeling and validation design; clinician connections |
+| Peter Washington, PhD | Assistant Professor, Division of Clinical Informatics and Digital Transformation, UCSF; Director, TECH Lab | Engagement models and their validation |
+
+**Karla Lindquist, PhD**, a specialist in UCSF's Department of Obstetrics, Gynecology and Reproductive Sciences, brings data science expertise and published work on postpartum depression and anxiety. She has already reviewed this proposal and shaped its modeling and validation design, and she will connect us with clinicians in her department.
+
+**Peter Washington, PhD**, Assistant Professor in UCSF's Division of Clinical Informatics and Digital Transformation, directs the TECH Lab, which develops machine learning methods for digital health and wearable data, and he will advise on the engagement models and their validation.
+
+We will also recruit a perinatal mental health clinician to help design the escalation pathway. UCSF places us near the clinicians, patients, and health system data Tether requires, and our program allows us to continue building it beyond the challenge.
 
 ## Key references
 
