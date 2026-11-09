@@ -1,4 +1,4 @@
-"""Synthetic postpartum blood pressure cohort for the Edge Medicine prototype.
+"""Synthetic postpartum blood pressure cohort for the Edge Medicine prototype. This is version 1 used for general testing.
  
 Generates patients with hypertensive disorders of pregnancy (HDP) who are
 enrolled in remote blood pressure monitoring at delivery discharge, together
